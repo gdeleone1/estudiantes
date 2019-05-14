@@ -17,7 +17,7 @@ public class pruebasU {
         f.FactorialN(-2);
        // fail("Debería haber saltado una excepción - no se puede calcular el factorial de un número negativo");
     }
-    
+    //
     
         @Test
     public void pruebaNormal() {
